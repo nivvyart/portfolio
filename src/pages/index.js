@@ -1,5 +1,8 @@
 import React from "react"
 import Title from "../components/title.js"
+import Projects from "../components/projects.js"
+import "bootstrap/dist/css/bootstrap.min.css"
+import "../styles/global.css"
 
 export default () => (
   <div style={{ color: `grey` }}>
@@ -11,5 +14,8 @@ export default () => (
       Strong communicator who can get the most out of teams and project
       outcomes.
     </p>
+    <div className="project_container">
+      <Projects />
+    </div>
   </div>
 )

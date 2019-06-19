@@ -1,0 +1,12 @@
+[
+  {
+    "name": "GitGhost",
+    "type": "Solo",
+    "description": "Github repository Dashboard for project insights",
+    "img1": "gitghost_index.png",
+    "img2": "gitghost_search.png",
+    "img3": "gitghost_project.png",
+    "url": "https://github.com/nivvyart",
+    "techs": ["React", "GraphQL", "Patternfly v4"]
+  }
+]
